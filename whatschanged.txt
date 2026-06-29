@@ -1,0 +1,43 @@
+What has changed since Adipocere 3.0
+8 Feb 04
+
+
+
+All backgrounds changed to black and most text changed to green 
+
+Fixed broken links to Spooky Martin to point to waffleproduction.com
+
+Changed adipocere links page into a FAQ page.  
+  FAQ page is genuine, however.  Not a gag FAQ. 
+
+Added pictures of people modeling new T-Shirts and holding new Adipocere tins. 
+
+Added one more testimonial, this one about AdiCon '03.
+
+Fixed main splash screen logo graphic colors to match the rest of the pages.  
+
+Made Logo come up as the primary component of initial splash screen, reviews and
+Valley Farms data are centered primarilly beneath Logo graphic.  Cleans up 
+first page quite a bit.
+
+Added method of listening to Adipocere Jingle in enviroments where multimedia files are 
+specifically blocked. 
+
+Try to make it easier to figure out how to contact us.  
+
+Clicking on the email links now automatically fills in the "Subject" field as well as the 
+"TO" field in email applications.  
+
+Added close up graphic of  new adipocere tin can with label. 
+
+Added one more name to the "W"'s in the credit card section.  In honor of a friend at work. 
+
+Fixed some typos and contextual errors. 
+
+Improved links between pages to make site easier to navigate. 
+
+Updated copyright information on each page. 
+
+
+
+
